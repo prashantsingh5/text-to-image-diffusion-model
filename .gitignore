@@ -1,0 +1,31 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.gradio/
+
+# Model weights and generated assets
+*.ckpt
+*.safetensors
+generated_image/
+images/generated/
+sd/flagged/

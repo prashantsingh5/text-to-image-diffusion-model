@@ -1,3 +1,0 @@
-Prompt,Strength,Do CFG,CFG Scale,Sampler,Number of Inference Steps,Seed,output,flag,username,timestamp
-,0.9,true,8,ddpm,50,42,,,,2024-09-05 02:29:27.991229
-a white persian cat is sleeping,0.83,true,8,ddpm,50,42,flagged\output\25225d8dfd9d5dd1fa7d\image.webp,,,2024-09-05 02:29:31.715721
